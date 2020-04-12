@@ -8,3 +8,7 @@ Data used to generate excretion scaling equations presented in Table S3.
 
 # FWBDischargeData
 Data collated from USGS gague 06879650 located on Kings Creek. Used to create figure 1.
+
+
+# FWBCoreDroughtBiomass
+Biomass data for core community in sample by species matrix.
